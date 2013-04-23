@@ -1,4 +1,4 @@
-#!/usr/bin/perl 
+#!/usr/bin/perl -w
 use Device::SerialPort;
 use Term::ReadKey;
 use Time::HiRes qw (sleep);
